@@ -1,7 +1,7 @@
 <h1 align="center">Hello, we are The Psicotics</h1>
 <h3 align="center">An FRC Team 533 originated in 2001 and based in Lindenhurst, NY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=team-533-psicotics&label=Profile%20views&color=0e75b6&style=flat" alt="team-533-psicotics" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=team-533-psicotics&label=Profile%20views&color=0e75b6&style=flat" alt="team-533-psicotics"&color="green" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=team-533-psicotics" alt="team-533-psicotics" /></a> </p>
 
