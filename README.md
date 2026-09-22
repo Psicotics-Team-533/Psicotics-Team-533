@@ -11,7 +11,7 @@
 
 - 🤝 Find us at [team533.com](team533.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Psicotics-Team-533/](https://github.com/Psicotics-Team-533/)
+- 👨‍💻 All of our projects are available at [https://github.com/Psicotics-Team-533/](https://github.com/Psicotics-Team-533/)
 
 - 💬 Ask us about **how we can help your team with programming! 💚**
 
