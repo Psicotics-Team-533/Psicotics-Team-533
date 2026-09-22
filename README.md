@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=team-533-psicotics&label=Profile%20views&color=254117&style=flat" alt="team-533-psicotics" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=team-533-psicotics" alt="team-533-psicotics" /></a> </p>
-
 - 🔭 We are currently working on **teaching new members!**
 
 - 👯 We are looking to collaborate by **making easier FRC templates for the community!**
