@@ -7,7 +7,7 @@
 
 - 🔭 We are currently working on **teaching new members!**
 
-- 👯 We ar looking to collaborate on **making easier FRC templates for the community!**
+- 👯 We are looking to collaborate by **making easier FRC templates for the community!**
 
 - 🤝 Find us at [team533.com](team533.com)
 
